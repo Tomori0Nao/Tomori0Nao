@@ -6,6 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
+# themes
+themes/
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -56,7 +58,6 @@ web_modules/
 
 # Optional stylelint cache
 .stylelintcache
-
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
