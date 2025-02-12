@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-02-12T12:45:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/posts/some-blame-ablout-baiducloud/some-blame-ablout-baiducloud/</loc>
+    <loc>//localhost:1313/posts/some-blame-ablout-baiducloud/some-blame-ablout-baiducloud/</loc>
     <lastmod>2025-02-12T12:45:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-02-12T12:45:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/posts/plant-factory-at-home/plant-factory-at-home/</loc>
+    <loc>//localhost:1313/posts/plant-factory-at-home/plant-factory-at-home/</loc>
     <lastmod>2025-02-09T13:05:59+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/posts/hello-world/hello-world/</loc>
+    <loc>//localhost:1313/posts/hello-world/hello-world/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
