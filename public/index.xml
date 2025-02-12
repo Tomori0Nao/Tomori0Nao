@@ -13,8 +13,13 @@
       <link>//localhost:1313/posts/plant-factory-at-home/plant-factory-at-home/</link>
       <pubDate>Sun, 09 Feb 2025 13:05:59 +0800</pubDate>
       
+<<<<<<< HEAD
       <guid>//localhost:1313/posts/plant-factory-at-home/plant-factory-at-home/</guid>
       <description></description>
+=======
+      <guid>/posts/plant-factory-at-home/plant-factory-at-home/</guid>
+      <description>关于家用植物工厂的一些想法</description>
+>>>>>>> ff1d2402873c6406c55c24867a76faf3e4bb4c1d
       
     </item>
     
