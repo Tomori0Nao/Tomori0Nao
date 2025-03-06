@@ -1,33 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
+    <loc>//localhost:1313/posts/pocket_wifi/pocket_wifi_no_signal/</loc>
+    <lastmod>2025-03-06T12:15:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-02-12T12:45:27+08:00</lastmod>
+    <lastmod>2025-03-06T12:15:15+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/posts/some-blame-ablout-baiducloud/some-blame-ablout-baiducloud/</loc>
-    <lastmod>2025-02-12T12:45:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2025-03-06T12:15:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/posts/some-complaints-ablout-baiducloud/some-complaints-ablout-baiducloud/</loc>
     <lastmod>2025-02-12T12:45:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
     <loc>//localhost:1313/posts/plant-factory-at-home/plant-factory-at-home/</loc>
     <lastmod>2025-02-09T13:05:59+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
+    <loc>//localhost:1313/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>//localhost:1313/posts/hello-world/hello-world/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
