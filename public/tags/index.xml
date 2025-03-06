@@ -4,10 +4,8 @@
     <title>Tags on Tomor0Nao</title>
     <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Tomor0Nao</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>

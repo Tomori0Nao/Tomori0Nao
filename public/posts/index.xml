@@ -4,30 +4,37 @@
     <title>Posts on Tomor0Nao</title>
     <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Tomor0Nao</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 13:05:59 +0800</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 06 Mar 2025 12:15:15 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pocket_WIFI_No_Signal</title>
+      <link>//localhost:1313/posts/pocket_wifi/pocket_wifi_no_signal/</link>
+      <pubDate>Thu, 06 Mar 2025 12:15:15 +0800</pubDate>
+      <guid>//localhost:1313/posts/pocket_wifi/pocket_wifi_no_signal/</guid>
+      <description>随身 WIFI 无信号及解决方案</description>
+    </item>
+    <item>
+      <title>Some complaints Ablout Baidu</title>
+      <link>//localhost:1313/posts/some-complaints-ablout-baiducloud/some-complaints-ablout-baiducloud/</link>
+      <pubDate>Wed, 12 Feb 2025 12:45:27 +0800</pubDate>
+      <guid>//localhost:1313/posts/some-complaints-ablout-baiducloud/some-complaints-ablout-baiducloud/</guid>
+      <description>一些关于百度云的吐槽</description>
+    </item>
     <item>
       <title>Plant Factory at Home</title>
       <link>//localhost:1313/posts/plant-factory-at-home/plant-factory-at-home/</link>
       <pubDate>Sun, 09 Feb 2025 13:05:59 +0800</pubDate>
-      
       <guid>//localhost:1313/posts/plant-factory-at-home/plant-factory-at-home/</guid>
       <description>关于家用植物工厂的一些想法</description>
-      
     </item>
-    
     <item>
       <title>hello world</title>
       <link>//localhost:1313/posts/hello-world/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/posts/hello-world/hello-world/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>
